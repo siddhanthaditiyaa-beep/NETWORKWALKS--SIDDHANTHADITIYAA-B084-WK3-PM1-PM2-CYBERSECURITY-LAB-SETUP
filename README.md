@@ -162,7 +162,7 @@ This lab was performed strictly for educational purposes on sample files provide
 
 ## 👤 Author
 
-**Sneha Pillai** — B084
+**Siddhanthaditiyaa Ajit Vettakal** — B084
 Cybersecurity Student, NetworkWalks
 
 ---
